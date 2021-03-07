@@ -58,3 +58,7 @@ list-style: none;
     font-family: cursive;
     font-size: 20px
 }
+.links:hover{
+    background-color: aquamarine;
+color: cadetblue;
+}
